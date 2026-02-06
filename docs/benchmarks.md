@@ -39,12 +39,11 @@
 | SecRepoBench | Secrepobench: Benchmarking llms for secure code generation in real-world repositories | - |
 
 `vulnerability exploitation`:
-
-BountyBench [275] 
-CVE-Bench [287] 
+* BountyBench [275] BountyBench: Dollar Impact of AI Agent Attackers and Defenders on Real-World Cybersecurity Systems
+* CVE-Bench [287] - CVE-bench: A benchmark for AI agents ability to exploit real-world web application vulnerabilities
 
 `PoC generation`:
-CyberGym [247]
+* CyberGym [247]  CyberGym: Evaluating AI Agents’ Cybersecurity Capabilities with Real-World Vulnerabilities at Scale
 
 
 ### Attack Steps 3∼7. Delivery,Exploitation,Installation,C&C,Action on objectives
